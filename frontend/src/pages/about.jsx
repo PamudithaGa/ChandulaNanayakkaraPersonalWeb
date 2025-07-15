@@ -4,13 +4,6 @@ import YouTube from "react-youtube";
 import { NavLink } from "react-router-dom";
 import { useInView } from "react-intersection-observer";
 import {
-  FaFacebookF,
-  FaYoutube,
-  FaLinkedinIn,
-  FaTwitter,
-  FaChalkboardTeacher,
-  FaMicrophone,
-  FaPenNib,
   FaLightbulb,
   FaUserTie,
   FaGraduationCap,
@@ -22,7 +15,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import AIOH from "../assets/AIOH.jpg";
 import MindMachine from "../assets/MIND_MACHINE.png";
 import ThePrefect from "../assets/THE_PREFECTS.PNG";
-import { motion } from "framer-motion";
 import { Navigation, Pagination, EffectCoverflow } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
